@@ -1,2 +1,2 @@
 # UNSERSplit
-Ein Schulprojekt der 3AHINF von Tim, Jonas und Noah
+Die Schulprojekte der 4AHINF von Tim, Jonas und Noah
